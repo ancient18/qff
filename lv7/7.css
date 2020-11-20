@@ -1,0 +1,260 @@
+
+        .big
+        {
+            width: 1281px;
+            margin: 0 auto;
+        }
+        .line
+        {
+            height: 40px;
+            line-height: 40px;
+        }
+        .sline
+        {
+            display: flex;
+            justify-content: space-around;
+            width: 500px;
+            float: right;
+        }
+        .a:hover
+        {
+            border-bottom: 5px solid red;
+        }
+       
+        .img1
+        {
+           background-image: url("7.3.png");
+           width: 1281px;
+           height: 600px;
+           margin: 5px auto;
+           padding-top: 200px;
+        }
+        .b 
+        {
+            width: 600px;
+            height: 400px;
+            margin-left: 200px;
+            color: white;
+        }
+        button
+        {
+            background-color: red;
+            color: white;
+            width: 300px;
+            height: 70px;
+            margin-top: 50px;
+            font-size: 30px;
+            border: 0px solid;
+        }
+        .small
+        {
+            height: 200px;
+        }
+        .c
+        {
+            display: flex;
+            text-align: center;
+            margin-top: 40px;
+            justify-content: space-between;
+        }
+        .d
+        {
+            height: 400px;
+            background-color: #ededed;
+            text-align: center;
+            font-size: 50px;
+        }
+        .img2
+        {
+            text-align: center;
+            height: 150px;
+            padding-top: 100px;
+        }
+        .img3
+        {
+            background-image: url("7.9.png");
+            width: 1281px;
+            height: 290px;
+            padding-top: 30px;
+            color: white;
+            text-align: center;
+        }
+        .e 
+        {
+            width: 200px;
+            height: 30px;
+        }
+        .ssmall 
+        {
+            display: flex;
+            justify-content: space-around;
+        }
+        .img4
+        {
+            background-image: url("7.10.png");
+            width: 970px;
+            height: 364px;
+            margin: 0 auto;
+            position: relative;
+        }
+        .f
+        {
+            height: 100px;
+            width: 200px;
+            margin-left: 250px;
+            text-align: center;
+        }
+        .g
+        {
+            margin-top: 200px;
+            height: 100px;
+            width: 200px;
+            text-align: center;
+            position: absolute;
+        }
+        .h
+        {
+            margin-top: 200px;
+            height: 100px;
+            width: 200px;
+            text-align: center;
+            position: absolute;
+            margin-left: 520px;
+        }
+        .i 
+        {
+            margin-top: 200px;
+            height: 100px;
+            width: 200px;
+            text-align: center;
+            position: absolute;
+            margin-left: 770px;
+        }
+        .img5
+        {
+            background-image: url("7.11.png");
+            width: 851px;
+            height: 567px;
+            float: left;
+        }
+        .j
+        {
+            margin: 0 auto;
+            width: 600px;
+            height: 600px;
+            text-align: center;
+            padding-top: 100px;
+            color: white;
+            
+        }
+        .k
+        {
+            width: 430px;
+            height: 567px;
+            float: right;
+        }
+        .l 
+        {
+            margin: 100px auto 0px auto;
+            width: 300px;
+            text-align: center;
+        }
+        .sbig
+        {
+            width: 1281px;
+            height: 690px;
+        }
+        .m 
+        {
+            width: 425px;
+            height: 521px;
+            background-color: red;
+            float: left;
+        }
+        .n
+        {
+            width: 300px;
+            height: 300px;
+            margin: 100px auto 0px auto;
+            color: white;
+            text-align: center;
+        }
+        .o 
+        {
+            width: 425px;
+            height: 521px;
+            margin: 0px auto ;
+            float: left;
+        }
+        .p 
+        {
+            width: 300px;
+            height: 300px;
+            margin: 100px auto 0px auto;
+            text-align: center;
+            color:  #a0a0a0;
+        }
+        .q
+        {
+            width: 800px;
+            height: 150px;
+            margin: 0 auto;
+            text-align: center;
+        }
+        .r 
+        {
+            width: 1281px;
+            height: 400px;
+            margin: 0 auto;
+            
+        }
+        .lr
+        {
+            width: 500px;
+            float: left;
+            height: 400px;
+        }
+        .rr
+        {
+            width: 700px;
+            float: right;
+            height: 400px;
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            align-content: flex-start;
+        }
+        .s 
+        {
+            width: 1281px;
+            background-color: #33363f;
+            height: 400px;
+            text-align: center;
+            color: white;
+            padding-top: 100px;
+        }
+        .t
+        {
+            width: 400px;
+            height: 34px;
+            border: 1px;
+            
+        }
+        .bd
+        {
+            
+          background-color: #666666;
+          color: white;
+           border: 1px;
+           height: 38px;
+           width: 80px;
+           font-size: 20px;
+        }
+        .z
+        {
+         width: 500px;
+         margin: 50px auto 0px auto;
+         display: flex;
+         flex-direction: row;
+
+        }

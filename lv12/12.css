@@ -1,0 +1,114 @@
+.big
+{
+    margin: 0 auto;
+    display: inline-block;
+}
+.a
+{
+    background-color: black;
+    color: white;
+}
+.b
+{
+    background-color: white;
+    color: red;
+}
+.c
+{
+    background-color: silver;
+    color: red;
+}
+.d
+{
+    background-color: silver;
+}
+.e
+{
+    background-color: white;
+}
+.small
+{
+   margin-top: 100px;
+    text-align: center;
+}
+.middle
+{
+    margin: 50px auto 0px auto;
+    text-align: center;
+}
+.input
+{
+    width: 200px;
+}
+.input:focus
+{
+    background-color: yellow;
+}
+.input:hover
+{
+    border: 1px solid red;
+}
+.s
+{
+    position: relative;
+    background-color: green;
+    width: 180px;
+    height: 100px;
+    margin: 100px auto 0px auto;
+}
+.s1,.s2,.s3
+{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    background-color: honeydew;
+}
+.s1
+{
+    right: 0px;
+    bottom: 0px;
+}
+.s2
+{
+    right: 21px;
+    bottom: 0px;
+}
+.s3
+{
+    right: 42px;
+    bottom: 0px;
+}
+.sbig
+{
+    position: relative;
+    
+    width: 180px;
+    height: 100px;
+    margin: 20px auto 0px auto;
+    
+}
+.y1
+{
+    position: relative;
+    background-color: blue;
+    width: 90px;
+    height: 100px;
+    display: inline-block;
+}
+.y2
+{
+    position: relative;
+    background-color: green;
+    width: 90px;
+    height: 100px;
+    float: right;
+    margin-left: 0px;
+}
+.z
+{
+    position: relative;
+    background-color: blue;
+    width: 180px;
+    height: 100px;
+    margin: 20px auto 0px auto;
+}

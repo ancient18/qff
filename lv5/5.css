@@ -1,0 +1,56 @@
+.b
+        {
+            background-color: black;
+            overflow: hidden;
+            margin: 0px;
+            padding: 0px;
+        }
+        
+        .s
+        {
+            float: right;
+        }
+        .i
+        {
+            float: left;
+            margin-left: 20px;
+        }
+        .big
+    {
+        background-color: dimgray;
+        margin: auto;
+        border:transparent;
+       position: relative;
+       width: 700px;
+       float: left;
+
+    }
+    .small
+    {
+        background-color: honeydew;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        margin-left: 20px;
+        margin-right: 20px;
+        width: 600px;
+    }
+    .zwx
+    {
+        width: 500px;
+        height: 400px;
+        background-color: white;
+      float: right;
+      margin-top: 30px;
+      margin-right: 100px;
+        
+    }
+    .bigbig
+    {
+        padding: 20px;
+        background-color: dimgray;
+        margin: auto;
+        border:transparent;
+       position: relative;
+       overflow: hidden;
+    }
+    
